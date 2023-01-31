@@ -1,0 +1,1 @@
+# Funções de alta ordem em Rust
